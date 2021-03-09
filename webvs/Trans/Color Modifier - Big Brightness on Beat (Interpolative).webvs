@@ -1,0 +1,18 @@
+{
+    "name": "Color Modifier - Big Brightness on Beat (Interpolative)",
+    "date": "2018-01-07T11:39:54.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ColorModifier",
+            "group": "Trans",
+            "recomputeEveryFrame": true,
+            "code": {
+                "init": "c = 200; f = 0;",
+                "perFrame": "f = f + 1;\r\nt = (1.025 - (f / c)) * 5;",
+                "onBeat": "c = f;f = 0;",
+                "perPoint": "red = red * t;\r\ngreen=red;blue=red;"
+            }
+        }
+    ]
+}

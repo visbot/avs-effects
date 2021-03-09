@@ -1,0 +1,12 @@
+{
+    "name": "Fast Brightness - Brighten by 2x",
+    "date": "2018-01-07T11:56:50.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "FastBrightness",
+            "group": "Trans",
+            "factor": 2
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Channel Shift - BGR",
+    "date": "2018-01-07T11:48:54.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ChannelShift",
+            "group": "Misc",
+            "mode": "BGR",
+            "onBeatRandom": true
+        }
+    ]
+}

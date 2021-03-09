@@ -1,0 +1,16 @@
+{
+    "name": "Blitter Feedback",
+    "date": "2018-01-07T11:35:40.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "BlitterFeedback",
+            "group": "Misc",
+            "zoom": 30,
+            "onBeatZoom": 30,
+            "blendMode": "REPLACE",
+            "onBeat": false,
+            "bilinear": true
+        }
+    ]
+}

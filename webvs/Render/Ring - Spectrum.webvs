@@ -1,0 +1,17 @@
+{
+    "name": "Ring - Spectrum",
+    "date": "2018-01-07T12:38:00.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Ring",
+            "group": "Render",
+            "audioChannel": "CENTER",
+            "positionX": "CENTER",
+            "colors": [
+                "#ffffff"
+            ],
+            "size": 8
+        }
+    ]
+}

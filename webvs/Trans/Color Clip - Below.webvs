@@ -1,0 +1,15 @@
+{
+    "name": "Color Clip - Below",
+    "date": "2018-01-07T11:36:47.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ColorClip",
+            "group": "Trans",
+            "mode": "BELOW",
+            "color": "#202020",
+            "outColor": "#202020",
+            "level": 10
+        }
+    ]
+}

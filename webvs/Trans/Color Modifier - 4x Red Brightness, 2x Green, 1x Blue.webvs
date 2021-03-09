@@ -1,0 +1,18 @@
+{
+    "name": "Color Modifier - 4x Red Brightness, 2x Green, 1x Blue",
+    "date": "2018-01-07T11:37:31.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ColorModifier",
+            "group": "Trans",
+            "recomputeEveryFrame": true,
+            "code": {
+                "init": "",
+                "perFrame": "",
+                "onBeat": "",
+                "perPoint": "red=4*red; green=2*green;"
+            }
+        }
+    ]
+}

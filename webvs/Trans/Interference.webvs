@@ -1,0 +1,23 @@
+{
+    "name": "Interference",
+    "date": "2018-01-07T12:22:20.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Interferences",
+            "group": "Trans",
+            "enabled": true,
+            "numberOfLayers": 2,
+            "distance": 10,
+            "alpha": 128,
+            "rotation": 0,
+            "blendMode": "REPLACE",
+            "onBeatDistance": 32,
+            "onBeatAlpha": 192,
+            "onBeatRotation": 25,
+            "separateRGB": true,
+            "onBeat": true,
+            "speed": 0.19999998807907104
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dot Grid - 50-50",
+    "date": "2018-01-07T12:35:36.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "DotGrid",
+            "group": "Render",
+            "colors": [
+                "#ffffff"
+            ],
+            "spacing": 8,
+            "speedX": 128,
+            "speedY": 128,
+            "blendMode": "FIFTY_FIFTY"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Movement - radial swirlies",
+    "date": "2018-01-07T12:27:35.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Movement",
+            "group": "Trans",
+            "builtinEffect": "Radial Swirlies",
+            "output": "Replace",
+            "sourceMapped": false,
+            "coordinates": 0,
+            "bilinear": true,
+            "wrap": false,
+            "code": "d = d * (1 - (sin((r-$PI*0.5) * 7) * .03)),\r\nr = r + (cos(d * 12) * .03),"
+        }
+    ]
+}

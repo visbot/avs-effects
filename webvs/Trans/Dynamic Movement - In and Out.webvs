@@ -1,0 +1,25 @@
+{
+    "name": "Dynamic Movement - In and Out",
+    "date": "2018-01-07T11:54:33.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "DynamicMovement",
+            "group": "Trans",
+            "code": {
+                "init": "speed=.2;c=0;",
+                "perFrame": "",
+                "onBeat": "c = c + ($PI/2);\r\ndd = 1 - (sin(c) * speed);",
+                "perPoint": "d = d * dd;"
+            },
+            "bFilter": true,
+            "coord": "POLAR",
+            "gridW": 2,
+            "gridH": 2,
+            "blend": false,
+            "wrap": true,
+            "buffer": 43,
+            "alphaOnly": false
+        }
+    ]
+}

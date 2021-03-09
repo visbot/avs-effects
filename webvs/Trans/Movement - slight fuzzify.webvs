@@ -1,0 +1,17 @@
+{
+    "name": "Movement - slight fuzzify",
+    "date": "2018-01-07T12:24:18.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Movement",
+            "group": "Trans",
+            "builtinEffect": "Slight Fuzzify",
+            "output": "Replace",
+            "sourceMapped": false,
+            "coordinates": "POLAR",
+            "bilinear": true,
+            "wrap": false
+        }
+    ]
+}

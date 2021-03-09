@@ -1,0 +1,19 @@
+{
+    "name": "Water Bump - Random drop position",
+    "date": "2018-01-07T12:32:50.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "WaterBump",
+            "group": "Trans",
+            "enabled": true,
+            "density": 6,
+            "depth": 600,
+            "random": true,
+            "dropPositionX": 1,
+            "dropPositionY": 1,
+            "dropRadius": 40,
+            "method": 0
+        }
+    ]
+}

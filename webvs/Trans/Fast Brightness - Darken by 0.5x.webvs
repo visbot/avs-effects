@@ -1,0 +1,12 @@
+{
+    "name": "Fast Brightness - Darken by 0.5x",
+    "date": "2018-01-07T11:57:02.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "FastBrightness",
+            "group": "Trans",
+            "factor": 0.5
+        }
+    ]
+}

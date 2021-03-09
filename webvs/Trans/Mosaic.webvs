@@ -1,0 +1,17 @@
+{
+    "name": "Mosaic",
+    "date": "2018-01-07T12:23:46.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Mosaic",
+            "group": "Trans",
+            "enabled": true,
+            "squareSize": 50,
+            "onBeatSquareSize": 1,
+            "blendMode": "REPLACE",
+            "onBeatSizeChange": false,
+            "onBeatSizeDuration": 15
+        }
+    ]
+}

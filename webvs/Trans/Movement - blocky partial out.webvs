@@ -1,0 +1,17 @@
+{
+    "name": "Movement - blocky partial out",
+    "date": "2018-01-07T12:25:25.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Movement",
+            "group": "Trans",
+            "builtinEffect": "Blocky Partial Out",
+            "output": "Replace",
+            "sourceMapped": false,
+            "coordinates": "POLAR",
+            "bilinear": true,
+            "wrap": false
+        }
+    ]
+}

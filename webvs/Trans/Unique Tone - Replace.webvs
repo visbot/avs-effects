@@ -1,0 +1,15 @@
+{
+    "name": "Unique Tone - Replace",
+    "date": "2018-01-07T12:31:01.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "UniqueTone",
+            "group": "Trans",
+            "enabled": true,
+            "color": "#ffffff",
+            "blendMode": "REPLACE",
+            "invert": false
+        }
+    ]
+}

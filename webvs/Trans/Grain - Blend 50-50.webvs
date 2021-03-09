@@ -1,0 +1,15 @@
+{
+    "name": "Grain - Blend 50-50",
+    "date": "2018-01-07T12:21:49.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Grain",
+            "group": "Trans",
+            "enabled": true,
+            "blendMode": "FIFTY_FIFTY",
+            "amount": 100,
+            "static": false
+        }
+    ]
+}

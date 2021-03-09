@@ -1,0 +1,18 @@
+{
+    "name": "Simple - Oscilloscope (Dots)",
+    "date": "2018-01-07T12:39:47.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Simple",
+            "group": "Render",
+            "audioSource": "Waveform",
+            "renderType": "Dots",
+            "audioChannel": "CENTER",
+            "positionY": "CENTER",
+            "colors": [
+                "#ffffff"
+            ]
+        }
+    ]
+}

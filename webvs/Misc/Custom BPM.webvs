@@ -1,0 +1,16 @@
+{
+    "name": "Custom BPM",
+    "date": "2018-01-07T11:35:13.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "CustomBPM",
+            "group": "Misc",
+            "enabled": true,
+            "mode": "ARBITRARY",
+            "arbitraryValue": 33,
+            "skipValue": 33,
+            "skipFirstBeats": 33
+        }
+    ]
+}

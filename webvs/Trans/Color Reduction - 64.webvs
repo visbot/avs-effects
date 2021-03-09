@@ -1,0 +1,12 @@
+{
+    "name": "Color Reduction - 64",
+    "date": "2018-01-07T11:51:11.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ColorReduction",
+            "group": "Trans",
+            "colors": 64
+        }
+    ]
+}

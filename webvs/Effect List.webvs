@@ -1,0 +1,28 @@
+{
+    "name": "Effect List",
+    "date": "2018-01-07T12:47:42.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "EffectList",
+            "enabled": true,
+            "clearFrame": false,
+            "input": "IGNORE",
+            "output": "REPLACE",
+            "inAdjustBlend": 128,
+            "outAdjustBlend": 128,
+            "inBuffer": 0,
+            "outBuffer": 0,
+            "inBufferInvert": false,
+            "outBufferInvert": false,
+            "enableOnBeat": false,
+            "enableOnBeatFor": 1,
+            "code": {
+                "enabled": false,
+                "init": "",
+                "perFrame": ""
+            },
+            "components": []
+        }
+    ]
+}

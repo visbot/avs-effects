@@ -1,0 +1,15 @@
+{
+    "name": "Buffer Save",
+    "date": "2018-01-07T11:33:38.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "BufferSave",
+            "group": "Misc",
+            "action": "SAVE",
+            "bufferId": 18,
+            "blendMode": "REPLACE",
+            "adjustBlend": 0
+        }
+    ]
+}

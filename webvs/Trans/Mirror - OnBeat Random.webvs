@@ -1,0 +1,19 @@
+{
+    "name": "Mirror - OnBeat Random",
+    "date": "2018-01-07T12:23:36.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Mirror",
+            "group": "Trans",
+            "enabled": true,
+            "topToBottom": true,
+            "bottomToTop": true,
+            "leftToRight": true,
+            "rightToLeft": true,
+            "onBeatRandom": true,
+            "smoothTransition": false,
+            "transitionDuration": 4
+        }
+    ]
+}

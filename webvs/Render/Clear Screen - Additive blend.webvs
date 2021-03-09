@@ -1,0 +1,15 @@
+{
+    "name": "Clear Screen - Additive blend",
+    "date": "2018-01-07T12:34:09.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ClearScreen",
+            "group": "Render",
+            "enabled": true,
+            "color": "#000000",
+            "blendMode": "ADDITIVE",
+            "onlyFirst": false
+        }
+    ]
+}

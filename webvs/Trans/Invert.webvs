@@ -1,0 +1,12 @@
+{
+    "name": "Invert",
+    "date": "2018-01-07T12:22:43.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Invert",
+            "group": "Trans",
+            "enabled": true
+        }
+    ]
+}

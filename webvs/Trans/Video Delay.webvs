@@ -1,0 +1,14 @@
+{
+    "name": "Video Delay",
+    "date": "2018-01-07T12:32:17.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "VideoDelay",
+            "group": "Trans",
+            "enabled": true,
+            "useBeats": false,
+            "delay": 10
+        }
+    ]
+}

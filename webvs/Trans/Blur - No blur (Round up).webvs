@@ -1,0 +1,13 @@
+{
+    "name": "Blur - No blur (Round up)",
+    "date": "2018-01-07T11:44:18.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Blur",
+            "group": "Trans",
+            "blur": "NONE",
+            "round": "UP"
+        }
+    ]
+}

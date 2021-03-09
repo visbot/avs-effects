@@ -1,0 +1,14 @@
+{
+    "name": "OnBeat Clear",
+    "date": "2018-01-07T12:36:33.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "OnBeatClear",
+            "group": "Render",
+            "color": "#ffffff",
+            "blendMode": "REPLACE",
+            "clearBeats": 1
+        }
+    ]
+}

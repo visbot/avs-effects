@@ -1,0 +1,35 @@
+{
+    "name": "Text",
+    "date": "2018-01-07T12:46:07.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Text",
+            "group": "Render",
+            "enabled": true,
+            "color": "#ffffff",
+            "blendMode": "REPLACE",
+            "onBeat": false,
+            "insertBlanks": false,
+            "randomPosition": false,
+            "verticalAlign": "CENTER",
+            "horizontalAlign": "CENTER",
+            "onBeatSpeed": 15,
+            "normSpeed": 15,
+            "weight": "DONTCARE",
+            "italic": false,
+            "underline": false,
+            "strikeOut": false,
+            "charSet": 0,
+            "fontName": "",
+            "text": "Demo",
+            "outline": false,
+            "outlineColor": "#000000",
+            "shiftX": 0,
+            "shiftY": 0,
+            "outlineShadowSize": 1,
+            "randomWord": false,
+            "shadow": false
+        }
+    ]
+}

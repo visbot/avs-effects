@@ -1,0 +1,18 @@
+{
+    "name": "Color Modifier - Big Brightness on Beat",
+    "date": "2018-01-07T11:39:38.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ColorModifier",
+            "group": "Trans",
+            "recomputeEveryFrame": true,
+            "code": {
+                "init": "scale=1.0",
+                "perFrame": "scale=0.07 + (scale*0.93)",
+                "onBeat": "scale=16",
+                "perPoint": "red=red*scale;\r\ngreen=red; blue=red;"
+            }
+        }
+    ]
+}

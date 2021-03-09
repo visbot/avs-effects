@@ -1,0 +1,18 @@
+{
+    "name": "Movement - psychotic beaming outward",
+    "date": "2018-01-07T12:27:04.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Movement",
+            "group": "Trans",
+            "builtinEffect": "Psychotic Beaming Outward",
+            "output": "Replace",
+            "sourceMapped": false,
+            "coordinates": 0,
+            "bilinear": true,
+            "wrap": false,
+            "code": "d = 0.15"
+        }
+    ]
+}

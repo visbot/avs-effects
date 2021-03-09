@@ -1,0 +1,14 @@
+{
+    "name": "OnBeat Clear - Blend to color",
+    "date": "2018-01-07T12:36:40.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "OnBeatClear",
+            "group": "Render",
+            "color": "#ffffff",
+            "blendMode": "FIFTY_FIFTY",
+            "clearBeats": 1
+        }
+    ]
+}

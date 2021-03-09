@@ -1,0 +1,25 @@
+{
+    "name": "Dynamic Movement - Random Rotate",
+    "date": "2018-01-07T11:54:03.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "DynamicMovement",
+            "group": "Trans",
+            "code": {
+                "init": "",
+                "perFrame": "",
+                "onBeat": "dr = (rand(100) / 100) * $PI;\r\nd = d * .95;",
+                "perPoint": "r = r + dr;"
+            },
+            "bFilter": true,
+            "coord": "POLAR",
+            "gridW": 2,
+            "gridH": 2,
+            "blend": false,
+            "wrap": true,
+            "buffer": 43,
+            "alphaOnly": false
+        }
+    ]
+}

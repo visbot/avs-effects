@@ -1,0 +1,15 @@
+{
+    "name": "Set render mode",
+    "date": "2018-01-07T11:33:54.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "SetRenderMode",
+            "group": "Misc",
+            "blend": "REPLACE",
+            "adjustBlend": 0,
+            "lineSize": 1,
+            "enabled": true
+        }
+    ]
+}

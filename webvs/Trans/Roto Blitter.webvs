@@ -1,0 +1,19 @@
+{
+    "name": "Roto Blitter",
+    "date": "2018-01-07T12:30:02.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "RotoBlitter",
+            "group": "Trans",
+            "zoom": 31,
+            "rotate": 31,
+            "blendMode": "REPLACE",
+            "onBeatReverse": false,
+            "reversalSpeed": 0,
+            "onBeatZoom": 31,
+            "onBeat": false,
+            "bilinear": true
+        }
+    ]
+}

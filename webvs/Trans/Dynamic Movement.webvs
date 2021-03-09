@@ -1,0 +1,25 @@
+{
+    "name": "Dynamic Movement",
+    "date": "2018-01-07T11:53:48.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "DynamicMovement",
+            "group": "Trans",
+            "code": {
+                "init": "",
+                "perFrame": "",
+                "onBeat": "",
+                "perPoint": ""
+            },
+            "bFilter": true,
+            "coord": "POLAR",
+            "gridW": 16,
+            "gridH": 16,
+            "blend": false,
+            "wrap": false,
+            "buffer": 43,
+            "alphaOnly": false
+        }
+    ]
+}

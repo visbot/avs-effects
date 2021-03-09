@@ -1,0 +1,13 @@
+{
+    "name": "Fadeout",
+    "date": "2018-01-07T11:56:29.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "FadeOut",
+            "group": "Trans",
+            "speed": 16,
+            "color": "#000000"
+        }
+    ]
+}

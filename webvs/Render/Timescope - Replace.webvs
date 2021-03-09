@@ -1,0 +1,15 @@
+{
+    "name": "Timescope - Replace",
+    "date": "2018-01-07T12:46:23.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Timescope",
+            "group": "Render",
+            "enabled": true,
+            "color": "#ffffff",
+            "blendMode": "REPLACE",
+            "bands": 39
+        }
+    ]
+}

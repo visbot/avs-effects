@@ -1,0 +1,13 @@
+{
+    "name": "Channel Shift - RBG",
+    "date": "2018-01-07T11:36:32.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ChannelShift",
+            "group": "Misc",
+            "mode": "RBG",
+            "onBeatRandom": true
+        }
+    ]
+}

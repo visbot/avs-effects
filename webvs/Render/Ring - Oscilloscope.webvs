@@ -1,0 +1,17 @@
+{
+    "name": "Ring - Oscilloscope",
+    "date": "2018-01-07T12:37:52.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Ring",
+            "group": "Render",
+            "audioChannel": "CENTER",
+            "positionX": "CENTER",
+            "colors": [
+                "#ffffff"
+            ],
+            "size": 8
+        }
+    ]
+}

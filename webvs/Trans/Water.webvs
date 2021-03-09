@@ -1,0 +1,12 @@
+{
+    "name": "Water",
+    "date": "2018-01-07T12:32:25.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Water",
+            "group": "Trans",
+            "enabled": true
+        }
+    ]
+}

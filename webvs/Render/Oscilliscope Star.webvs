@@ -1,0 +1,18 @@
+{
+    "name": "Oscilliscope Star",
+    "date": "2018-01-07T12:36:57.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "OscilliscopeStar",
+            "group": "Render",
+            "audioChannel": "CENTER",
+            "positionX": "CENTER",
+            "colors": [
+                "#ffffff"
+            ],
+            "size": 8,
+            "rotation": 3
+        }
+    ]
+}

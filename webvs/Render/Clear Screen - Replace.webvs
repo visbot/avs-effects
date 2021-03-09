@@ -1,0 +1,15 @@
+{
+    "name": "Clear Screen - Replace",
+    "date": "2018-01-07T12:33:42.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "ClearScreen",
+            "group": "Render",
+            "enabled": true,
+            "color": "#000000",
+            "blendMode": "REPLACE",
+            "onlyFirst": false
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Comment",
+    "date": "2018-01-07T11:33:00.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Comment",
+            "group": "Misc",
+            "text": ""
+        }
+    ]
+}

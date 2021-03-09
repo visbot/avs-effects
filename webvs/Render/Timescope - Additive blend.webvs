@@ -1,0 +1,15 @@
+{
+    "name": "Timescope - Additive blend",
+    "date": "2018-01-07T12:46:31.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "Timescope",
+            "group": "Render",
+            "enabled": true,
+            "color": "#ffffff",
+            "blendMode": "ADDITIVE",
+            "bands": 39
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Fast Brightness - Do nothingx",
+    "date": "2018-01-07T11:57:12.000Z",
+    "clearFrame": true,
+    "components": [
+        {
+            "type": "FastBrightness",
+            "group": "Trans",
+            "factor": 1
+        }
+    ]
+}
